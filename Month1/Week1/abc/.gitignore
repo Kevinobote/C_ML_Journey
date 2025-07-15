@@ -8,6 +8,7 @@ putchar
 scanf
 grade_calculator
 for_loop_intro
+loop_control
 # Other common build artifacts
 *.exe
 *.dll
