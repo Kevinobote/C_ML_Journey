@@ -1,0 +1,5 @@
+--- Data Analysis Report ---
+Total numbers processed: 8
+Average: 59.14
+Minimum value: 12.50
+Maximum value: 91.20
