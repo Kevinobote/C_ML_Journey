@@ -10,6 +10,16 @@ grade_calculator
 for_loop_intro
 loop_control
 array_intro
+array_mod
+crop_matrix
+feature_vector
+model_finder
+pointer_intro
+pointers_arrays
+power_calc
+string_basics
+string_tools
+weight_update
 # Other common build artifacts
 *.exe
 *.dll

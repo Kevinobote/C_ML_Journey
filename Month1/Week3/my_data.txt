@@ -1,0 +1,5 @@
+Hello, C File I/O!
+This is the second line.
+The number is: 123
+Pi is approximately: 3.14
+End of writing data.
